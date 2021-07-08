@@ -1,2 +1,1 @@
-# House_prediction_EDA
-Advanced-House-Price-Prediction-
+# Advanced-House-Price-Prediction-
